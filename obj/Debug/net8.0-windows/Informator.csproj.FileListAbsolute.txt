@@ -1,0 +1,14 @@
+C:\Users\NeAdAppTar\source\repos\Informator\obj\Debug\net8.0-windows\Informator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NeAdAppTar\source\repos\Informator\obj\Debug\net8.0-windows\Informator.AssemblyInfoInputs.cache
+C:\Users\NeAdAppTar\source\repos\Informator\obj\Debug\net8.0-windows\Informator.AssemblyInfo.cs
+C:\Users\NeAdAppTar\source\repos\Informator\obj\Debug\net8.0-windows\Informator.csproj.CoreCompileInputs.cache
+C:\Users\NeAdAppTar\source\repos\Informator\bin\Debug\net8.0-windows\Informator.exe
+C:\Users\NeAdAppTar\source\repos\Informator\bin\Debug\net8.0-windows\Informator.deps.json
+C:\Users\NeAdAppTar\source\repos\Informator\bin\Debug\net8.0-windows\Informator.runtimeconfig.json
+C:\Users\NeAdAppTar\source\repos\Informator\bin\Debug\net8.0-windows\Informator.dll
+C:\Users\NeAdAppTar\source\repos\Informator\bin\Debug\net8.0-windows\Informator.pdb
+C:\Users\NeAdAppTar\source\repos\Informator\obj\Debug\net8.0-windows\Informator.dll
+C:\Users\NeAdAppTar\source\repos\Informator\obj\Debug\net8.0-windows\refint\Informator.dll
+C:\Users\NeAdAppTar\source\repos\Informator\obj\Debug\net8.0-windows\Informator.pdb
+C:\Users\NeAdAppTar\source\repos\Informator\obj\Debug\net8.0-windows\Informator.genruntimeconfig.cache
+C:\Users\NeAdAppTar\source\repos\Informator\obj\Debug\net8.0-windows\ref\Informator.dll
